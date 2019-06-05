@@ -2,4 +2,4 @@
 Assignments from Comp 251: Algorithms and Data Structures
 
 
-Software: Java
+Programming language: Java
